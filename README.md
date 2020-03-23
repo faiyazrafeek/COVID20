@@ -1,10 +1,10 @@
-# [Paper Dashboard 2](https://faiyazrafeek.github.io/COVID20/) 
+# [COVID19 2.0](https://faiyazrafeek.github.io/COVID20/) 
 
 ![alt text](https://github.com/faiyazrafeek/COVID20/blob/master/assets/img/screenshot.jpeg)
 
 ## Links:
 
-+ [Paper Dashboard 2 PRO](https://www.creative-tim.com/product/paper-dashboard-2-pro) (from $39)
++ [Paper Dashboard 2 PRO Theme](https://www.creative-tim.com/product/paper-dashboard-2-pro) (from $39)
 
 ## Getting started
 - Download the project’s zip

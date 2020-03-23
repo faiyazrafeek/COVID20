@@ -12,7 +12,12 @@ fetch("https://hpb.health.gov.lk/api/get-current-statistical")
         document.getElementById("time2").innerHTML='Last Update at '+datas.data.update_date_time; 
         document.getElementById("time3").innerHTML='Last Update at '+datas.data.update_date_time; 
         document.getElementById("time4").innerHTML='Last Update at '+datas.data.update_date_time; 
-        document.getElementById("time5").innerHTML='Last Update at '+datas.data.update_date_time; 
+        document.getElementById("time5").innerHTML='Last Update at '+datas.data.update_date_time;
+        document.getElementById("time6").innerHTML='Last Update at '+datas.data.update_date_time; 
+        document.getElementById("time7").innerHTML='Last Update at '+datas.data.update_date_time; 
+        document.getElementById("time8").innerHTML='Last Update at '+datas.data.update_date_time; 
+        document.getElementById("time9").innerHTML='Last Update at '+datas.data.update_date_time; 
+        document.getElementById("time10").innerHTML='Last Update at '+datas.data.update_date_time;  
 
 
         //local cases
