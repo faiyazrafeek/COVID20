@@ -1,4 +1,4 @@
-# [Paper Dashboard 2](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html) 
+# [Paper Dashboard 2](https://faiyazrafeek.github.io/COVID20/) 
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/86/original/opt_pd2_thumbnail.jpg)
 
