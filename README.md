@@ -1,17 +1,10 @@
 # [Paper Dashboard 2](https://faiyazrafeek.github.io/COVID20/) 
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/86/original/opt_pd2_thumbnail.jpg)
-
-**Example Pages**
-We wanted to fully display the power of this dashboard, so the kit comes packed with examples showing you how to use the components. Inside the product you will find:
+![alt text](https://github.com/faiyazrafeek/COVID20/blob/master/assets/img/screenshot.jpeg)
 
 ## Links:
 
 + [Paper Dashboard 2 PRO](https://www.creative-tim.com/product/paper-dashboard-2-pro) (from $39)
-
-**Tutorial**
-In order for you to easily be able to use the Paper Dashboard 2, we have created a tutorial page in our documentation. It shows the structure for the files inside the archive and how to import them. It then features every components with a description and example how to use it. You can see the details [here](https://creativetimofficial.github.io/paper-dashboard-2/docs/1.0/getting-started/introduction.html).
-
 
 ## Getting started
 - Download the project’s zip
@@ -24,25 +17,13 @@ In order for you to easily be able to use the Paper Dashboard 2, we have created
 
 ## Useful Links
 
-More products from Creative Tim: <http://www.creative-tim.com/bootstrap-themes>
-
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
-
-Freebies: <http://www.creative-tim.com/products>
-
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
-
 Social Media:
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <https://twitter.com/fayazrafeek>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <https://www.facebook.com/fayaz.suha>
 
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://instagram.com/faiyaz.rafeek>
 
 [CHANGELOG]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE
