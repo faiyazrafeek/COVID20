@@ -1,4 +1,4 @@
-# [COVID19 2.0](https://faiyazrafeek.github.io/COVID20/) 
+# [COVID19 2.0](https://corona20.netlify.com/) 
 
 ![alt text](https://github.com/faiyazrafeek/COVID20/blob/master/assets/img/screenshot.jpeg)
 
